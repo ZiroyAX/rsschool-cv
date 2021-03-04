@@ -1,2 +1,2 @@
 # rsschool-cv
-training
+https://ZiroyAX.github.io/rsschool-cv/cv
